@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "welcome",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "welcome",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "THEBESTSMPMC.aternos.me",
     "port": 30886,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
